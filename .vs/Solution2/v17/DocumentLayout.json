@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\classtime\\desktop\\app\\app\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|solutionrelative:app\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\app\\App\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\app\\App\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "App\\Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:23:33.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

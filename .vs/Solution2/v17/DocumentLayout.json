@@ -1,10 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\app\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\classtime\\desktop\\app\\app\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\user\\desktop\\app\\app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|solutionrelative:app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\intefaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\intefaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CC52C1-ABA7-475C-81CE-751ED30AD42D}|Core\\Core.csproj|c:\\users\\user\\desktop\\app\\core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CC52C1-ABA7-475C-81CE-751ED30AD42D}|Core\\Core.csproj|solutionrelative:core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9EDC00-6CBF-4E17-BA18-24C8F24C122E}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\app\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9EDC00-6CBF-4E17-BA18-24C8F24C122E}|DAL\\DAL.csproj|solutionrelative:dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\user\\desktop\\app\\app\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|solutionrelative:app\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\user\\desktop\\app\\app\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|solutionrelative:app\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\user\\desktop\\app\\app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|solutionrelative:app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\user\\desktop\\app\\app\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|solutionrelative:app\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|c:\\users\\user\\desktop\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292D5D3-297A-437C-9803-A6EDD6F9537E}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9EDC00-6CBF-4E17-BA18-24C8F24C122E}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\app\\dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9EDC00-6CBF-4E17-BA18-24C8F24C122E}|DAL\\DAL.csproj|solutionrelative:dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\intefaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\intefaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\intefaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\intefaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\implementations\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\implementations\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\intefaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\intefaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|c:\\users\\user\\desktop\\app\\business\\services\\intefaces\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E9F6-6D74-4B1D-99BC-54235A95D08B}|Business\\Business.csproj|solutionrelative:business\\services\\intefaces\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +102,305 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\DTOs\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\DTOs\\Account\\LoginDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Account\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:58:11.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\DTOs\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\DTOs\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Account\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:57:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Intefaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\IUserService.cs",
+              "RelativeToolTip": "Business\\Services\\Intefaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:56:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:56:02.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\DAL\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\DAL\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "DAL\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:53:27.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:52:17.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "App\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:51:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\TopicController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "App\\Controllers\\TopicController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAxwCEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:43:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\TagController.cs",
+              "RelativeToolTip": "App\\Controllers\\TagController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:42:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:35:49.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "App\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:42:41.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:41:49.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DALServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\DAL\\DALServiceRegistration.cs",
+              "RelativeDocumentMoniker": "DAL\\DALServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\DAL\\DALServiceRegistration.cs",
+              "RelativeToolTip": "DAL\\DALServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:40:08.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusinessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\BusinessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\BusinessServiceRegistration.cs",
+              "RelativeToolTip": "Business\\BusinessServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:37:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TopicService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\TopicService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\TopicService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\TopicService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\TopicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:02:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\TagService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\TagService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\TagService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\TagService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:01:33.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AssignmentController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\app\\App\\Controllers\\AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\AssignmentController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\AssignmentController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\app\\App\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\App\\Controllers\\AssignmentController.cs",
               "RelativeToolTip": "App\\Controllers\\AssignmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T09:23:33.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\AssignmentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\AssignmentService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\AssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:03:50.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITopicService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\ITopicService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Intefaces\\ITopicService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\ITopicService.cs",
+              "RelativeToolTip": "Business\\Services\\Intefaces\\ITopicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:01:10.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\ITagService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Intefaces\\ITagService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\ITagService.cs",
+              "RelativeToolTip": "Business\\Services\\Intefaces\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:01:04.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Intefaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Business\\Services\\Intefaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:00:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Intefaces\\IAssignmentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Intefaces\\IAssignmentService.cs",
+              "RelativeToolTip": "Business\\Services\\Intefaces\\IAssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:00:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\app\\Business\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:02:22.562Z",
               "EditorCaption": ""
             }
           ]

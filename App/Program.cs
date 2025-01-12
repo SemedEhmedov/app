@@ -1,4 +1,5 @@
 using Business;
+using DAL;
 using DAL.Context;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,6 +16,7 @@ builder.Services.AddDbContext<AppDBContext>(opt =>
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
 builder.Services.AddBusinessServices();
+builder.Services.AddDALServices();
 
 var app = builder.Build();
 
